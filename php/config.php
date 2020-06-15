@@ -7,9 +7,9 @@ session_start();
 
 //database credentials
 define('DB_HOST','localhost');
-define('DB_USER','u858317159_naosu');
+define('DB_USER','*_naosu');
 define('DB_PASSWORD','testing');
-define('DB_NAME','u858317159_naosu');
+define('DB_NAME','*_naosu');
 
 //application address
 //define('DIR','http://domain.com/');
